@@ -1,9 +1,10 @@
 package main
 
 import (
-	"golang.org/x/image/math/f64"
 	"math/rand"
 	"time"
+
+	"golang.org/x/image/math/f64"
 )
 
 type Player struct {
